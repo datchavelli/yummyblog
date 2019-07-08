@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "naslov":"Cheesecake korpice",
+        "opis":"Cheese cake je već duži niz godina jedan od najpopularnijih i najtraženijih kolač i to s razologom! Ko god da ga je osmislio, zaista je znao šta radi. Fantastična kombinacija hrskavog keksa natopljenog istopljenim puterom, laganog belog krema i slatkog ukuvanog voća je zaista pun pogodak! ",
+        "sadrzaj":"Cheese cake je već duži niz godina jedan od najpopularnijih i najtraženijih kolač i to s razologom! Ko god da ga je osmislio, zaista je znao šta radi. Fantastična kombinacija hrskavog keksa natopljenog istopljenim puterom, laganog belog krema i slatkog ukuvanog voća je zaista pun pogodak! Ako je i vama, kao i nama, dosadila standardna ponuda slatkiša na prazničnoj trpezi onda predlažemo da ove godine napravite nešto drugačije i modernije. A šta je bolje od cheese cake-a i to u varijanti koju vam mi danas predstavljamo! Naš recept nema želatin i gustin, a sprema se brzo i lako. Uz to, ove cheese cake korpice izgledaju neodoljivo i sigurni smo da će vas oduševiti na prvi pogled, ali i zalogaj! Potrebni sastojci: 300g jagoda/malina/višanja/ribizli ili mix svog voća, 50 g kristal šećera, 400g mlevenog keksa, 200 g putera, 300g krem sira, 200 ml slatke pavlake , 120 g prah šećera , 2 kesice vanilin šećera sa burbonom.",
+        "putanja":"assets/img/cizkejkkorpice.jpg",
+        "alt":"Korpice",
+        "kreirano":"28.06.2019",
+        "autor":"Admin"
+    },
+    {
+        "id":2,
+        "naslov":"Domace rafaelo kuglice",
+        "opis":"Ima li bolje kombinacije od ukusa kokosa koji nas uvek neodoljivo podseti na leto i mlečnog krema. A ako uz to dodate i prepečeni lešnik ili badem? Savršenstvo je potpuno!",
+        "sadrzaj":"Ima li bolje kombinacije od ukusa kokosa koji nas uvek neodoljivo podseti na leto i mlečnog krema. A ako uz to dodate i prepečeni lešnik ili badem? Savršenstvo je potpuno! Rafaelo kuglice su definitivno jedna od naših omiljenih poslastica. Praktične su kao posluženje na koktel žurkama jer ih bukvalno možete smazati u jednom zalogaju. Potrebni sastojci: 400 g mleka u prahu, 400 g šećera , 2dl vode, 250 g maslaca ili margarina, 250 g kokosovog brašna, 100 g kokosa, 1 kesica vanilin šećera, 100 g prženih lešnika",
+        "putanja":"assets/img/rafaelo.jpg",
+        "alt":"Rafaelo",
+        "kreirano":"30.06.2019",
+        "autor":"Admin"
+        
+    },
+    {
+        "id":3,
+        "naslov":"Kolac sa jagodama",
+        "opis":"Nedavno vas na našem Instagram profil putem story obave pitasmo da nam pomognemo pri odluci šta da vam sledeće snimamo od recepata - da li neki lagani rolat sa jagodama ili neki kolač bez pečenja.",
+        "sadrzaj":"Nedavno vas na našem Instagram profil putem story obave pitasmo da nam pomognemo pri odluci šta da vam sledeće snimamo od recepata - da li neki lagani rolat sa jagodama ili neki kolač bez pečenja. I naaaaravno, da se nikome ne stoji pored šporeta u ovim toplim danima, pa je većina vaših glasova otišla na račun druge opcije. I zato danas ispunjavamo vašu želju i pokazujemo vam recept za kremasti kolač sa jagodama. Šporetu ćete ipak morati da priđete, ali tek toliko da skuvate puding i brzo pobegnete! Potrebni sastojci (za celu meru): 300 g KEKSA, 3 VANILA PUDINGA, 6 kašika ŠEĆERA, 1l MLEKA, 200 g MASLACA, 4 kašike KISELE PAVLAKE, 500 g JAGODA, 200 ml SLATKE PAVLAKE",
+        "putanja":"assets/img/kolacjagode.jpg",
+        "alt":"Kolac sa jagodama",
+        "kreirano":"01.07.2019",
+        "autor":"Admin"
+    }
+]
